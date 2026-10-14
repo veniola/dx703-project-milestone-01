@@ -1,5 +1,5 @@
 # dx703-project-milestone-01
-*Project Milestone 1: Task and Dataset Selection &amp; Problem Framing*
+**Project Milestone 1: Task and Dataset Selection &amp; Problem Framing**
 
 Follow these steps adapted from Geron, A. (2023). Hands-on machine learning. O'Reilly Media.
 
@@ -13,6 +13,7 @@ Follow these steps adapted from Geron, A. (2023). Hands-on machine learning. O'R
 - Specify success metrics (e.g., accuracy, F1, mean absolute error (MAE), root mean squared error (RMSE)).
 
 **Submission Instructions**
+
 Submit a single Jupyter notebook on Gradescope by Sunday, Week 8 at 11:59 pm ET. 
 
 Submission should include: 
