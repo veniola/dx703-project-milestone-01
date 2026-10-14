@@ -1,5 +1,5 @@
 # dx703-project-milestone-01
-**Project Milestone 1: Task and Dataset Selection &amp; Problem Framing**
+***Project Milestone 1: Task and Dataset Selection &amp; Problem Framing***
 
 Follow these steps adapted from Geron, A. (2023). Hands-on machine learning. O'Reilly Media.
 
@@ -20,3 +20,5 @@ Submission should include:
 - Dataset description 
 - Problem framing 
 - Initial EDA (with plots or tables) 
+
+You are expected to document your use of artificial intelligence (AI) in accordance with Faculty of Computing & Data Sciences (CDS) policy in the Mod 7 Syllabus. We reserve the right to adjust grades if the CDS AI policy is not followed. 
